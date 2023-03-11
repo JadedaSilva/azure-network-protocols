@@ -110,3 +110,7 @@ Here we observed various Network Protocols using two Virtual Machines and Wiresh
 <p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
+
+<p>
+In conclusion, this tutorial focused on inspecting network traffic between Azure Virtual Machines using Wireshark and experimenting with Network Security Groups (NSGs). The tutorial demonstrated how to create two virtual machines, Windows 10 and Ubuntu Server, and how to use Wireshark to observe traffic for various protocols such as ICMP, SSH, and DHCP. The tutorial also showed how to block ICMP traffic using NSGs and how to connect to the Ubuntu VM's command prompt using SSH. Overall, this tutorial provided a comprehensive introduction to network traffic inspection and NSGs in Azure.
+<p/>
